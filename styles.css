@@ -1,0 +1,147 @@
+body{
+  margin:0px;
+  text-align: center;
+font-family: 'Merriweather Sans', sans-serif;
+  font-size:1rem;
+  color:40514E;
+}
+h1{
+  margin:50,auto;0,auto;
+font-family: 'IM Fell English', serif;
+font-size:4.375rem;
+color:#66BFBF;
+line-height:"2";
+}
+.xyz{
+    font-family: 'Montserrat', sans-serif;
+    font-size:1.875rem;
+    color:#66BFBF;
+    font-weight:normal;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  font-weight:normal;
+  color:#66BFBF;
+  padding-bottom:10px;
+}
+h3{
+  color:#11999E;
+
+}
+a{
+  color:#11999E;
+  font-family: 'Merriweather Sans', sans-serif;
+  margin: 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+p{
+  font-family: 'Commissioner', sans-serif;
+  font-size:1.25rem;
+  line-height:2;
+}
+.intro{
+  color:#40514E;
+  width:30%;
+  margin:auto;
+}
+.hori{
+  width:6%;
+  color:grey;
+  border-style:dotted;
+  border-width:5px;
+  border-top:0px;
+  margin:100px auto;
+}
+.contact-msg{
+  width:40%;
+  margin:40px auto 60px;
+}
+.Skill-one{
+  /*height:100px;
+  width:100px;*/
+  width:25%;
+  float:left;
+ margin-right:30px;
+}
+.Skill-two{
+width:25%;
+float:right;
+margin-left:30px;
+}
+.abc{
+    height:200px;
+    width: 200px;
+    border-radius:50%;
+
+  }
+.top-container{
+  background-color:#E4F9F5;
+  position:relative;
+  padding-top:100px;
+}
+.middle-container{
+  margin:100px 0;
+}
+.top-cloud{
+   position:absolute;
+   top:50px;
+   right:300px;
+}
+.bottom-cloud{
+  position:absolute;
+  left:200px;
+  bottom: 300px;
+}
+.mountain{
+  width:600px;
+  height:300px;
+}
+.skill-row{
+margin:100px auto 100px auto;
+  width:50%;
+  text-align:left;
+
+}
+.btn{
+  padding:10,auto,10,auto;
+  background-color:#11CDD4;
+  font-family:sans-serif;
+  width:150px;
+  height:50px;
+  border-radius:15px;
+  font-size:20px;
+  margin:20px,50px;
+  border-color:#66BFBF;
+  border-style:none;
+  color:white;
+
+  /*You can even generate the button easily using CSS Button Generator*/
+}
+.btn:hover{
+  color:#2BC4AD;
+}
+
+.bottom-container{
+  margin-top:100px;
+  background-color:#66BFBF;
+  height:150px;
+  padding-top:60px;
+}
+.last{
+  color:#EAF6F6;
+padding-top:30px;
+font-size:0.75rem;
+}
+
+/*.pqr{
+margin-right:40px;
+border-color:#66BFBF;
+background-color:#66BFBF;
+border-style:none;
+color:#11999E;
+Here the style appears in the same way ,but link will not be active, hence you cannot reach the required website.
+}*/
